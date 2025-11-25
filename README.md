@@ -3,7 +3,7 @@
 A tela de login permite que o usuário acesse sua conta existente informando e-mail e senha.
 Também há um atalho para a tela de cadastro caso o usuário ainda não possua conta.
 
-![WhatsApp Image 2025-11-24 at 22 55 01](https://github.com/user-attachments/assets/5da1245c-aa2b-40d3-a3f9-fe56a3fb700a)
+<p align="center">![WhatsApp Image 2025-11-24 at 22 55 01](https://github.com/user-attachments/assets/5da1245c-aa2b-40d3-a3f9-fe56a3fb700a)</p>
 
 
 2. Tela de Registro de Cliente
