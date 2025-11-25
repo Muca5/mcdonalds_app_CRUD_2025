@@ -4,7 +4,9 @@ Esta tela permite que o usuário cadastre seus lanches favoritos.
 Ela contém campos para nome do lanche e descrição, além de um botão de Salvar.
 Abaixo, é exibida uma lista dos lanches já cadastrados, cada item contendo opções para editar ou excluir o registro.
 
-![Adicionar Lanches](Downloads/WhatsApp Image 2025-11-24 at 22.55.00.jpeg)
+
+![WhatsApp Image 2025-11-24 at 22 55 01](https://github.com/user-attachments/assets/a5d7733b-e9da-431f-ac49-ddcaa44b024a)
+
 
 2. Tela Inicial – Bem-vindo
 
